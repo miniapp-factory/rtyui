@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "Blockchain Explorer App";
+export const description = "Explore blocks, transactions, addresses, smart contracts, and network statistics in real-time.";
 export const url = process.env.NEXT_PUBLIC_URL;
